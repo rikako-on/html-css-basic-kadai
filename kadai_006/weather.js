@@ -1,1 +1,3 @@
-weather.js
+$(function() {
+  $('#target').addClass('heading');
+});
